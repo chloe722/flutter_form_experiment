@@ -2,6 +2,8 @@
 
 A simple form with validation in flutter
 
+![](image/form_validation.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
