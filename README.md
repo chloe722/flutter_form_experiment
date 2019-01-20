@@ -1,6 +1,6 @@
-# bussiness_card
+# Simple form validation experiment
 
-A new Flutter application.
+A simple form with validation in flutter
 
 ## Getting Started
 
